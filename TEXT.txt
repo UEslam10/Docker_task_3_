@@ -1,0 +1,14 @@
+ eslam alqasaby Mohamed 
+
+ section 1 
+  
+ 1) docker-compose up --build                   image بناء ال  
+
+
+ 2) docker-compose up                         containers تشغيل ال  
+
+
+ 3) docker ps                                 اللي عندي containers علشان اشوف ال  
+
+
+ 4) docker-compose down                       volumes لو هحذف ال -v مع ,container لو عايز اوقف ال
